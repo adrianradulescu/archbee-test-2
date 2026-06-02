@@ -1,0 +1,39 @@
+{
+  "docsPath": "docs/",
+  "structure": {
+    "assets": "assets/",
+    "docsTree": [
+      {
+        "path": "bj4d-links-md.mdx",
+        "children": []
+      },
+      {
+        "path": "links-md.mdx",
+        "children": []
+      },
+      {
+        "path": "FolderZ/test-page-1.mdx",
+        "children": []
+      },
+      {
+        "path": "archbee.mdx",
+        "children": []
+      },
+      {
+        "path": "FolderZ/test-page-2.mdx",
+        "children": []
+      },
+      {
+        "path": "FolderZ/test-page-3.mdx",
+        "children": []
+      },
+      {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
+      }
+    ]
+  },
+  "shadowDocs": []
+}
