@@ -1,0 +1,17 @@
+{
+  "docsPath": "docs/",
+  "structure": {
+    "assets": "assets/",
+    "docsTree": [
+      {
+        "path": "O8FeCk6st6D2K-tfxMEWY.mdx",
+        "children": []
+      },
+      {
+        "path": "welcome.mdx",
+        "children": []
+      }
+    ]
+  },
+  "shadowDocs": []
+}
